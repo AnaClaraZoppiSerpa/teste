@@ -4,7 +4,7 @@
 ## Education
 **Universidade Estadual de Campinas (UNICAMP)** - Master in Computer Science, with focus on Cryptanalysis of Symmetric Block Ciphers [Feb 2021 - Present]
 
-**Apple Developer Academy | Instituto Eldorado Campinas** - Student [Feb 2021 - Present]
+**Apple Developer Academy, Instituto Eldorado Campinas** - Student [Feb 2021 - Present]
 
 **Universidade Estadual de Campinas (UNICAMP)** - Bachelor in Computer Science [Jan 2017 - Jan 2021]
 * Received Brazilian Computer Society's Outstanding Student certificate [Jan 2021]

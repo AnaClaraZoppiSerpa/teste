@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Ana Clara Zoppi Serpa
++55 19 999751205, anaclara.zoppiserpa@gmail.com, a165880@dac.unicamp.br
 
-You can use the [editor on GitHub](https://github.com/AnaClaraZoppiSerpa/teste/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+**Universidade Estadual de Campinas (UNICAMP)** - Master in Computer Science, with focus on Cryptanalysis of Symmetric Block Ciphers [Feb 2021 - Present]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Apple Developer Academy | Instituto Eldorado Campinas** - Student [Feb 2021 - Present]
 
-### Markdown
+**Universidade Estadual de Campinas (UNICAMP)** - Bachelor in Computer Science [Jan 2017 - Jan 2021]
+* Received Brazilian Computer Society's Outstanding Student certificate [Jan 2021]
+* Received UNICAMP's Institute of Computing Graduation with Great Distinction certificate [Jan 2021]
+* Ranked first of the class, concluded the course one year in advance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Colégio Técnico de Campinas (COTUCA)** - Technical Course in Information Technology [Jan 2014 - Sept 2017]
 
-```markdown
-Syntax highlighted code block
+## Skills
+**Software development related:** Git, Trello | **Digital art:** Krita, Paint Tool SAI, Canva | **Game development:** RenPy
 
-# Header 1
-## Header 2
-### Header 3
+**Programming languages:** C (good), C++ (good), Python (intermediate), C# (intermediate), Java (intermediate), SQL (good)
 
-- Bulleted
-- List
+**Languages:** Portuguese (native), English (fluent), Japanese (basic - N5)
+* Obtained N5 Level on Japan Foundation and Japan Educational Exchanges and Services Proficiency Exam [Jan 2017]
 
-1. Numbered
-2. List
+## Experience
 
-**Bold** and _Italic_ and `Code` text
+## Projects
 
-[Link](url) and ![Image](src)
-```
+## Interests
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnaClaraZoppiSerpa/teste/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Additional Information
